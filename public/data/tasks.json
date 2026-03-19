@@ -1,0 +1,104 @@
+{
+  "_readme": "Edit this file to update tasks. status: 'todo' | 'in-progress' | 'done'. priority: 'high' | 'medium' | 'low'. due: YYYY-MM-DD.",
+  "tasks": [
+    {
+      "id": "t001",
+      "title": "Review Q1 financial projections",
+      "description": "Cross-check against actuals and update bank forecast model",
+      "project": "Finance",
+      "priority": "high",
+      "status": "in-progress",
+      "due": "2026-03-22",
+      "created": "2026-03-10"
+    },
+    {
+      "id": "t002",
+      "title": "Deploy Friday Dashboard to Vercel",
+      "description": "Build, deploy, and install as PWA on iPhone",
+      "project": "Tech",
+      "priority": "high",
+      "status": "in-progress",
+      "due": "2026-03-20",
+      "created": "2026-03-18"
+    },
+    {
+      "id": "t003",
+      "title": "Book flights Melbourne → Sydney",
+      "description": "Conference trip. Check dates with Kim first.",
+      "project": "Travel",
+      "priority": "medium",
+      "status": "todo",
+      "due": "2026-03-25",
+      "created": "2026-03-15"
+    },
+    {
+      "id": "t004",
+      "title": "Renew business insurance",
+      "description": "Annual renewal — compare quotes before signing",
+      "project": "Admin",
+      "priority": "high",
+      "status": "todo",
+      "due": "2026-04-01",
+      "created": "2026-03-12"
+    },
+    {
+      "id": "t005",
+      "title": "Set up automated diet logging",
+      "description": "Configure FRIDAY to auto-update diet-log.json via agent",
+      "project": "Tech",
+      "priority": "medium",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-18"
+    },
+    {
+      "id": "t006",
+      "title": "Book Dezi's 4-year birthday party venue",
+      "description": "He wants the trampoline park. Call ahead — book for ~15 kids.",
+      "project": "Family",
+      "priority": "high",
+      "status": "todo",
+      "due": "2026-03-20",
+      "created": "2026-03-17"
+    },
+    {
+      "id": "t007",
+      "title": "Send monthly supplier report",
+      "description": "Export from system, review margins, send to stakeholders",
+      "project": "Business",
+      "priority": "medium",
+      "status": "in-progress",
+      "due": "2026-03-31",
+      "created": "2026-03-01"
+    },
+    {
+      "id": "t008",
+      "title": "Gym program review with trainer",
+      "description": "Assess current PPL split, adjust for strength goals",
+      "project": "Health",
+      "priority": "low",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-14"
+    },
+    {
+      "id": "t009",
+      "title": "Update MEMORY.md with new projects",
+      "project": "Tech",
+      "priority": "low",
+      "status": "done",
+      "due": null,
+      "created": "2026-03-16"
+    },
+    {
+      "id": "t010",
+      "title": "Williamstown office lease renewal",
+      "description": "Negotiate 2-year term, review rent increase clause",
+      "project": "Business",
+      "priority": "high",
+      "status": "done",
+      "due": "2026-03-15",
+      "created": "2026-02-20"
+    }
+  ]
+}
