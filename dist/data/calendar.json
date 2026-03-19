@@ -1,0 +1,92 @@
+{
+  "_readme": "Edit this file to add/update calendar events. date: YYYY-MM-DD. category: work | personal | health | family | sport.",
+  "events": [
+    {
+      "id": "e001",
+      "title": "Q1 Business Review",
+      "date": "2026-03-20",
+      "time": "10:00 AM",
+      "location": "Williamstown Office",
+      "category": "work",
+      "description": "Full quarterly review with team. Bring updated P&L."
+    },
+    {
+      "id": "e002",
+      "title": "Dezi's 4th Birthday! 🎂",
+      "date": "2026-03-25",
+      "time": "All Day",
+      "location": "Glen Iris",
+      "category": "family",
+      "description": "Desmond turns 4! Party TBC — probably trampoline park."
+    },
+    {
+      "id": "e003",
+      "title": "NBA Finals Watch Party",
+      "date": "2026-03-22",
+      "time": "7:00 PM",
+      "location": "Home",
+      "category": "sport",
+      "description": ""
+    },
+    {
+      "id": "e004",
+      "title": "GP Appointment",
+      "date": "2026-03-26",
+      "time": "9:30 AM",
+      "location": "Glen Iris Medical",
+      "category": "health",
+      "description": "Annual check-up + blood results review"
+    },
+    {
+      "id": "e005",
+      "title": "Melbourne Tech Conference",
+      "date": "2026-04-03",
+      "time": "9:00 AM",
+      "location": "Melbourne Convention Centre",
+      "category": "work",
+      "description": "Day conference. Speaking slot at 2pm."
+    },
+    {
+      "id": "e006",
+      "title": "Kim's Birthday 🎂",
+      "date": "2026-09-06",
+      "time": "All Day",
+      "category": "family",
+      "description": "Don't forget to organise something special."
+    },
+    {
+      "id": "e007",
+      "title": "Riley Turns 2! 🎂",
+      "date": "2026-08-22",
+      "time": "All Day",
+      "category": "family",
+      "description": ""
+    },
+    {
+      "id": "e008",
+      "title": "Easter Long Weekend",
+      "date": "2026-04-03",
+      "time": "All Day",
+      "category": "personal",
+      "description": "Good Friday — public holiday. Plan family time."
+    },
+    {
+      "id": "e009",
+      "title": "Supplier Meeting — Q2 Planning",
+      "date": "2026-04-08",
+      "time": "2:00 PM",
+      "location": "Williamstown Office",
+      "category": "work",
+      "description": ""
+    },
+    {
+      "id": "e010",
+      "title": "Team Dinner",
+      "date": "2026-03-17",
+      "time": "7:00 PM",
+      "location": "Restaurant TBC, Melbourne CBD",
+      "category": "work",
+      "description": "End of Q1 celebration dinner with the team"
+    }
+  ]
+}
