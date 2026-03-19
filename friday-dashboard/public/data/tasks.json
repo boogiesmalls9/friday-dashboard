@@ -1,0 +1,105 @@
+{
+  "_readme": "Edit this file to update tasks. status: 'todo' | 'in-progress' | 'done'. priority: 'high' | 'medium' | 'low'. due: YYYY-MM-DD.",
+  "tasks": [
+    {
+      "id": "t001",
+      "title": "Deploy Friday Dashboard to Vercel",
+      "description": "Fix Git PATH on machine, push to GitHub, deploy to Vercel, install as PWA on iPhone",
+      "project": "Friday Setup",
+      "priority": "high",
+      "status": "in-progress",
+      "due": "2026-03-20",
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t002",
+      "title": "Add Portal logo to Friday email signature",
+      "description": "Host logo on Vercel once deployed, update HTML email sig",
+      "project": "Friday Setup",
+      "priority": "medium",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t003",
+      "title": "Restrict Friday Azure app to friday@ mailbox only",
+      "description": "Run New-ApplicationAccessPolicy via ExchangeOnlineManagement PowerShell module on computer",
+      "project": "Friday Setup",
+      "priority": "medium",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t004",
+      "title": "Portal Tender Tool — Quantity Measurement Agent",
+      "description": "PENDING GREEN LIGHT. Build a tender agent with PDF drawing measurement capability. Vision model reads drawings, detects scale, measures areas/lengths/depths. Outputs quantities table. Agent applies rates and generates tender document. Need: sample drawing, rate schedule, sample tender doc from Adrian.",
+      "project": "Portal Tools",
+      "priority": "high",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t005",
+      "title": "Portal Project Manager App",
+      "description": "Web app version of Excalibur spreadsheet. Program builder, live actuals, material tracking, truck tracking, daily logs. Mobile-first for on-site use.",
+      "project": "Portal Tools",
+      "priority": "high",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t007",
+      "title": "OHS/QA Agent — NEXT PROJECT",
+      "description": "PENDING — OHS Agent to build out. Full scope written in /workspace/projects/OHS-QA-Agent-Scope.md. 6 modules: 1) Project commencement pack (SWMS, truck routes, toolboxes) 2) HammerTech/client portal integration 3) Weekly toolbox + daily prestart app 4) Machine hours + service tracking 5) Incident reporting 6) QA photo submission + document lodgement. 3-4 week build across 3 phases.",
+      "project": "Portal Tools",
+      "priority": "high",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t009",
+      "title": "Give Friday read access to Outlook Calendar",
+      "description": "Add Calendars.Read (Application permission) to Friday Mail Azure app. Grant admin consent. Then Friday can read Adrian@portalcontractors.com calendar directly for briefings and scheduling.",
+      "project": "Friday Setup",
+      "priority": "high",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t010",
+      "title": "Give Friday read access to Google Calendar",
+      "description": "Set up Google Calendar API access via Google Cloud Console using adrian.bucca@gmail.com. OAuth2 or service account. Friday can then read personal Google Calendar for full schedule visibility.",
+      "project": "Friday Setup",
+      "priority": "medium",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t008",
+      "title": "Set up Groq API",
+      "description": "Sign up at console.groq.com (free), create API key, add to OpenClaw as fallback model after Gemini. Groq runs Llama 3 — insanely fast and free.",
+      "project": "Friday Setup",
+      "priority": "medium",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    },
+    {
+      "id": "t006",
+      "title": "Top up Anthropic Claude credits",
+      "description": "Claude API ran out of credits. Top up for complex coding/analysis tasks.",
+      "project": "Friday Setup",
+      "priority": "medium",
+      "status": "todo",
+      "due": null,
+      "created": "2026-03-19"
+    }
+  ]
+}

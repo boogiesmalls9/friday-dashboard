@@ -1,0 +1,57 @@
+{
+  "_readme": "Edit this file to add/update calendar events. date: YYYY-MM-DD. category: work | personal | health | family | sport.",
+  "events": [
+    {
+      "id": "e006",
+      "title": "Meeting — Leigh Melbourne",
+      "date": "2026-03-24",
+      "time": "11:00 AM",
+      "location": "78 Maddox Rd, Newport VIC 3015",
+      "category": "work",
+      "description": "1 hour meeting with Leigh Melbourne"
+    },
+    {
+      "id": "e001",
+      "title": "Dezi's Birthday Party @ Rainbowtown",
+      "date": "2026-03-22",
+      "time": "All Day",
+      "location": "Rainbowtown",
+      "category": "family",
+      "description": "Dezi's 4th birthday party!"
+    },
+    {
+      "id": "e002",
+      "title": "Dezi Turns 4! First Cinema Trip",
+      "date": "2026-03-25",
+      "time": "All Day",
+      "location": "Glen Iris",
+      "category": "family",
+      "description": "Desmond turns 4 — take him to see his first real movie!"
+    },
+    {
+      "id": "e003",
+      "title": "Family Over for Dezi's Birthday",
+      "date": "2026-03-28",
+      "time": "All Day",
+      "location": "Home",
+      "category": "family",
+      "description": "Family celebration for Dezi's birthday"
+    },
+    {
+      "id": "e004",
+      "title": "Riley Turns 2",
+      "date": "2026-08-22",
+      "time": "All Day",
+      "category": "family",
+      "description": ""
+    },
+    {
+      "id": "e005",
+      "title": "Kim's Birthday",
+      "date": "2026-09-06",
+      "time": "All Day",
+      "category": "family",
+      "description": "Don't forget to organise something special."
+    }
+  ]
+}
