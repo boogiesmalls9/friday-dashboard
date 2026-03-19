@@ -2,6 +2,24 @@
   "_readme": "Edit this file to add/update calendar events. date: YYYY-MM-DD. category: work | personal | health | family | sport.",
   "events": [
     {
+      "id": "e007",
+      "title": "Pick up Matt & Danai — Liam's 40th",
+      "date": "2026-03-21",
+      "time": "3:00 PM",
+      "location": "TBC",
+      "category": "personal",
+      "description": "Collect Matt Lemmen and Danai at 3pm, heading to Liam's 40th birthday party."
+    },
+    {
+      "id": "e008",
+      "title": "Lunch with Duncan",
+      "date": "2026-03-23",
+      "time": "1:00 PM",
+      "location": "Chadstone",
+      "category": "work",
+      "description": "Lunch with Duncan at Chadstone."
+    },
+    {
       "id": "e006",
       "title": "Meeting — Leigh Melbourne",
       "date": "2026-03-24",
