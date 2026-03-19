@@ -1,0 +1,145 @@
+{
+  "_readme": "Edit this file to update Adrian's diet data. Dates in YYYY-MM-DD format. Calories in kcal, protein/fibre in grams.",
+  "targets": {
+    "calories": 2200,
+    "protein": 180,
+    "fibre": 35
+  },
+  "logs": [
+    {
+      "date": "2026-03-18",
+      "totals": {
+        "calories": 1980,
+        "protein": 162,
+        "fibre": 28
+      },
+      "meals": [
+        {
+          "name": "Greek Yoghurt + Berries",
+          "time": "07:30",
+          "calories": 280,
+          "protein": 22,
+          "fibre": 5
+        },
+        {
+          "name": "Chicken Rice Bowl",
+          "time": "12:30",
+          "calories": 650,
+          "protein": 55,
+          "fibre": 8
+        },
+        {
+          "name": "Protein Shake",
+          "time": "15:00",
+          "calories": 180,
+          "protein": 30,
+          "fibre": 2
+        },
+        {
+          "name": "Salmon + Vegetables",
+          "time": "19:00",
+          "calories": 720,
+          "protein": 48,
+          "fibre": 10
+        },
+        {
+          "name": "Almonds",
+          "time": "21:00",
+          "calories": 150,
+          "protein": 7,
+          "fibre": 3
+        }
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "totals": {
+        "calories": 2150,
+        "protein": 175,
+        "fibre": 32
+      },
+      "meals": [
+        {
+          "name": "Eggs + Toast",
+          "time": "08:00",
+          "calories": 420,
+          "protein": 28,
+          "fibre": 4
+        },
+        {
+          "name": "Tuna Salad",
+          "time": "13:00",
+          "calories": 480,
+          "protein": 42,
+          "fibre": 8
+        },
+        {
+          "name": "Protein Shake",
+          "time": "16:00",
+          "calories": 180,
+          "protein": 30,
+          "fibre": 2
+        },
+        {
+          "name": "Steak + Broccoli",
+          "time": "19:30",
+          "calories": 820,
+          "protein": 65,
+          "fibre": 12
+        },
+        {
+          "name": "Cottage Cheese",
+          "time": "21:30",
+          "calories": 150,
+          "protein": 18,
+          "fibre": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "totals": {
+        "calories": 2380,
+        "protein": 188,
+        "fibre": 30
+      },
+      "meals": []
+    },
+    {
+      "date": "2026-03-15",
+      "totals": {
+        "calories": 2100,
+        "protein": 170,
+        "fibre": 38
+      },
+      "meals": []
+    },
+    {
+      "date": "2026-03-14",
+      "totals": {
+        "calories": 1950,
+        "protein": 155,
+        "fibre": 25
+      },
+      "meals": []
+    },
+    {
+      "date": "2026-03-13",
+      "totals": {
+        "calories": 2200,
+        "protein": 180,
+        "fibre": 36
+      },
+      "meals": []
+    },
+    {
+      "date": "2026-03-12",
+      "totals": {
+        "calories": 2050,
+        "protein": 165,
+        "fibre": 33
+      },
+      "meals": []
+    }
+  ]
+}
