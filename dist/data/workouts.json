@@ -1,0 +1,195 @@
+{
+  "_readme": "Edit this file to update Adrian's workout data. Dates in YYYY-MM-DD. Weight in kg. isPR: true marks a personal record.",
+  "personalRecords": [
+    {
+      "exercise": "Bench Press",
+      "value": 120,
+      "unit": "kg",
+      "reps": 1,
+      "date": "2026-02-28"
+    },
+    {
+      "exercise": "Squat",
+      "value": 150,
+      "unit": "kg",
+      "reps": 1,
+      "date": "2026-03-10"
+    },
+    {
+      "exercise": "Deadlift",
+      "value": 190,
+      "unit": "kg",
+      "reps": 1,
+      "date": "2026-03-05"
+    },
+    {
+      "exercise": "Overhead Press",
+      "value": 80,
+      "unit": "kg",
+      "reps": 1,
+      "date": "2026-02-15"
+    },
+    {
+      "exercise": "Pull-ups",
+      "value": 16,
+      "unit": "reps",
+      "date": "2026-03-01"
+    }
+  ],
+  "weightHistory": [
+    { "date": "2026-03-05", "weight": 88.5 },
+    { "date": "2026-03-06", "weight": 88.2 },
+    { "date": "2026-03-07", "weight": 88.4 },
+    { "date": "2026-03-08", "weight": 88.1 },
+    { "date": "2026-03-09", "weight": 87.9 },
+    { "date": "2026-03-10", "weight": 88.0 },
+    { "date": "2026-03-11", "weight": 87.8 },
+    { "date": "2026-03-12", "weight": 87.6 },
+    { "date": "2026-03-13", "weight": 87.7 },
+    { "date": "2026-03-14", "weight": 87.5 },
+    { "date": "2026-03-15", "weight": 87.3 },
+    { "date": "2026-03-16", "weight": 87.2 },
+    { "date": "2026-03-17", "weight": 87.4 },
+    { "date": "2026-03-18", "weight": 87.1 }
+  ],
+  "logs": [
+    {
+      "date": "2026-03-18",
+      "name": "Push Day",
+      "duration": "65 min",
+      "notes": "Solid session. Bench felt strong — deload next week.",
+      "exercises": [
+        {
+          "name": "Bench Press",
+          "sets": [
+            { "reps": 5, "weight": 100 },
+            { "reps": 5, "weight": 110 },
+            { "reps": 3, "weight": 115 }
+          ]
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "sets": [
+            { "reps": 10, "weight": 40 },
+            { "reps": 10, "weight": 40 },
+            { "reps": 8, "weight": 40 }
+          ]
+        },
+        {
+          "name": "Overhead Press",
+          "sets": [
+            { "reps": 6, "weight": 75 },
+            { "reps": 6, "weight": 75 },
+            { "reps": 5, "weight": 75 }
+          ]
+        },
+        {
+          "name": "Lateral Raises",
+          "sets": [
+            { "reps": 15, "weight": 15 },
+            { "reps": 15, "weight": 15 },
+            { "reps": 12, "weight": 15 }
+          ]
+        },
+        {
+          "name": "Tricep Pushdowns",
+          "sets": [
+            { "reps": 12, "weight": 35 },
+            { "reps": 12, "weight": 35 },
+            { "reps": 10, "weight": 35 }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-16",
+      "name": "Leg Day",
+      "duration": "70 min",
+      "notes": "Squats felt heavy. Good volume overall.",
+      "exercises": [
+        {
+          "name": "Squat",
+          "sets": [
+            { "reps": 5, "weight": 130 },
+            { "reps": 5, "weight": 140 },
+            { "reps": 3, "weight": 145 }
+          ]
+        },
+        {
+          "name": "Romanian Deadlift",
+          "sets": [
+            { "reps": 8, "weight": 100 },
+            { "reps": 8, "weight": 100 },
+            { "reps": 8, "weight": 100 }
+          ]
+        },
+        {
+          "name": "Leg Press",
+          "sets": [
+            { "reps": 12, "weight": 200 },
+            { "reps": 12, "weight": 200 },
+            { "reps": 10, "weight": 220 }
+          ]
+        },
+        {
+          "name": "Calf Raises",
+          "sets": [
+            { "reps": 20, "weight": 80 },
+            { "reps": 20, "weight": 80 }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-14",
+      "name": "Pull Day",
+      "duration": "60 min",
+      "exercises": [
+        {
+          "name": "Deadlift",
+          "sets": [
+            { "reps": 5, "weight": 160 },
+            { "reps": 3, "weight": 175 },
+            { "reps": 1, "weight": 185 }
+          ],
+          "isPR": true
+        },
+        {
+          "name": "Pull-ups",
+          "sets": [
+            { "reps": 10, "weight": 0 },
+            { "reps": 8, "weight": 0 },
+            { "reps": 7, "weight": 0 }
+          ]
+        },
+        {
+          "name": "Barbell Row",
+          "sets": [
+            { "reps": 8, "weight": 90 },
+            { "reps": 8, "weight": 90 },
+            { "reps": 6, "weight": 95 }
+          ]
+        },
+        {
+          "name": "Face Pulls",
+          "sets": [
+            { "reps": 15, "weight": 25 },
+            { "reps": 15, "weight": 25 }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-12",
+      "name": "Morning Run",
+      "duration": "35 min",
+      "exercises": [
+        {
+          "name": "5km Run",
+          "distance": 5.2,
+          "duration": "28:30"
+        }
+      ]
+    }
+  ]
+}
